@@ -1,0 +1,28 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "fetching photos from instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelesh-algoworks/node-basics.git"
+  },
+  "keywords": [
+    "nodejs",
+    "instagram-node"
+  ],
+  "author": "neelesh dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelesh-algoworks/node-basics/issues"
+  },
+  "homepage": "https://github.com/neelesh-algoworks/node-basics#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "instagram-node": "^0.5.8"
+  }
+}
